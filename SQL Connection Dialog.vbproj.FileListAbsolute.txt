@@ -1,0 +1,16 @@
+C:\!VS 2005 Projects\DCS\Utilities\SQL Connection Dialog\SQL Connection Dialog\bin\Debug\SQL Connection Dialog.dll
+C:\!VS 2005 Projects\DCS\Utilities\SQL Connection Dialog\SQL Connection Dialog\bin\Debug\SQL Connection Dialog.pdb
+C:\!VS 2005 Projects\DCS\Utilities\SQL Connection Dialog\SQL Connection Dialog\bin\Debug\SQL Connection Dialog.xml
+C:\!VS 2005 Projects\DCS\Utilities\SQL Connection Dialog\SQL Connection Dialog\bin\Debug\Microsoft.Data.ConnectionUI.Dialog.dll
+C:\!VS 2005 Projects\DCS\Utilities\SQL Connection Dialog\SQL Connection Dialog\bin\Debug\Microsoft.Data.ConnectionUI.dll
+C:\!VS 2005 Projects\DCS\Utilities\SQL Connection Dialog\SQL Connection Dialog\bin\Debug\Microsoft.Data.ConnectionUI.xml
+C:\!VS 2005 Projects\DCS\Utilities\SQL Connection Dialog\SQL Connection Dialog\obj\Debug\ResolveAssemblyReference.cache
+C:\!VS 2005 Projects\DCS\Utilities\SQL Connection Dialog\SQL Connection Dialog\obj\Debug\SQL_Connection_Dialog.Resources.resources
+C:\!VS 2005 Projects\DCS\Utilities\SQL Connection Dialog\SQL Connection Dialog\obj\Debug\SQL Connection Dialog.vbproj.GenerateResource.Cache
+C:\!VS 2005 Projects\DCS\Utilities\SQL Connection Dialog\SQL Connection Dialog\obj\Debug\SQL Connection Dialog.dll
+C:\!VS 2005 Projects\DCS\Utilities\SQL Connection Dialog\SQL Connection Dialog\obj\Debug\SQL Connection Dialog.xml
+C:\!VS 2005 Projects\DCS\Utilities\SQL Connection Dialog\SQL Connection Dialog\obj\Debug\SQL Connection Dialog.pdb
+P:\CMNFRMS\DLL\SQL Connection Dialog\SQL Connection Dialog.dll
+P:\CMNFRMS\DLL\SQL Connection Dialog\SQL Connection Dialog.pdb
+P:\CMNFRMS\DLL\SQL Connection Dialog\SQL Connection Dialog.xml
+C:\!VS 2005 Projects\DCS\Utilities\SQL Connection Dialog\SQL Connection Dialog\obj\Debug\SQL_Connection_Dialog.SQLConnectionDialog.resources
